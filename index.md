@@ -1,3 +1,10 @@
+{% if site.twitter_username %}
+  <li>
+    <a href="https://twitter.com/{{ cientopolis }}">
+      <i class="fa fa-twitter"></i> Twitter
+    </a>
+  </li>
+{% endif %}
 # We are here! First post.
 _Jul 30th, 2019_
 
