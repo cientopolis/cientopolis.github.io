@@ -1,6 +1,6 @@
 {% if site.twitter_username %}
   <li>
-    <a href="https://twitter.com/{{ cientopolis }}">
+    <a href="https://twitter.com/{{  site.twitter_username }}">
       <i class="fa fa-twitter"></i> Twitter
     </a>
   </li>
