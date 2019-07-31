@@ -3,8 +3,12 @@
     <a href="https://twitter.com/{{  site.twitter_username }}">
       <i class="fa fa-twitter"></i> Twitter
     </a>
+    <a href="https://www.facebook.com/{{ site.facebook_username }}">
+      <i class="fa fa-facebook"></i> Facebook
+    </a>
   </li>
 {% endif %}
+
 # We are here! First post.
 _Jul 30th, 2019_
 
