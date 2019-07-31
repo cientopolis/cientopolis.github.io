@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# We are here! First post.
+_Jul 30th, 2019_
 
-You can use the [editor on GitHub](https://github.com/cientopolis/cientopolis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is our first post in this blog. The aim of this page is to share with the international community different aspects and updates of the citizen science project called Cientopolis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cientopolis is an Argentinian researc project focused on participatory science aka citizen science aka community science. The main page is hosted in the [Oficial Site](http://cientopolis.org). The content is written in Spanish. 
 
-### Markdown
+However, communication is one of the most important aspects in science, and more in participatory science!. This blog will try to communicate our work in world wide audience. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cientopolis/cientopolis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We hope this channel becomes in a nice place. 
